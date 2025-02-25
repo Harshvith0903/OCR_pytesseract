@@ -1,4 +1,4 @@
-# Extract Text from PDF and Analyze Tags
+# OCR-Based PDF Text Extraction
 
 This project extracts text from a PDF file, specifically focusing on red-highlighted text, and analyzes unique tags found within the extracted content. The results are saved into an Excel file with separate sheets for extracted text and tag counts.
 
